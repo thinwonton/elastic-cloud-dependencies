@@ -1,0 +1,23 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
